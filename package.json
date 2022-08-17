@@ -68,7 +68,7 @@
     "@types/express-actuator": "^1.8.0",
     "@types/express-session": "^1.17.5",
     "@types/jest": "28.1.4",
-    "@types/lodash": "^4.14.182",
+    "@types/lodash": "^4.14.183",
     "@types/node": "^16.0.0",
     "@types/os-utils": "^0.0.1",
     "@types/passport-jwt": "^3.0.6",
