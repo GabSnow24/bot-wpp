@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@digikare/nestjs-prom": "^1.0.0",
-    "@nestjs/common": "^9.0.0",
+    "@nestjs/common": "^9.0.11",
     "@nestjs/core": "^9.0.0",
     "@nestjs/event-emitter": "^1.3.0",
     "@nestjs/jwt": "^9.0.0",
